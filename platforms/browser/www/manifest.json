@@ -1,0 +1,12 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "ActivityX",
+  "short_name": "ActivityX",
+  "version": "com.multimedia.activityx",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "author": "Leonardo Barraza / Felipe Neira",
+  "icons": [],
+  "orientation": "portrait",
+  "start_url": "index.html"
+}
